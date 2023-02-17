@@ -57,7 +57,6 @@ button {
             <button type="button" class="cancelbtn"> Cancel</button> 
             Forgot <a href="#"> password? </a> 
             <h3> Not a member ? <a href="#"> SignUp<h3>
-              
         </div>
          
     </form>   
