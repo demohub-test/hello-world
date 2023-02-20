@@ -10,7 +10,7 @@ Body {
 }
 button { 
        background-color: #4CAF50; 
-       width: 25%;
+       width: 30%;
         color: white; 
         padding: 15px; 
         margin: 10px 0px; 
@@ -21,7 +21,7 @@ button {
         border: 3px solid #f1f1f1; 
     } 
  input[type=text], input[type=password] { 
-        width: 25%; 
+        width: 30%; 
         margin: 8px 0;
         padding: 12px 20px; 
         display: inline-block; 
@@ -50,8 +50,10 @@ button {
         <div class="container"> 
             <label>Username : </label> 
             <input type="text" placeholder="Enter Username" name="username" required>
+	    <div>
             <label>Password : </label> 
             <input type="password" placeholder="Enter Password" name="password" required>
+	    <div>
             <button type="submit">Login</button> 
             <input type="checkbox" unchecked="checked"> Remember me 
             <button type="button" class="cancelbtn"> Cancel</button> 
