@@ -15,9 +15,9 @@
 
 
   
-  <title>CodePen - Login Form with floating placeholder and light button</title>
+  <title>Login Page</title>
   
-  
+<!--*** Login Form with floating placeholder and light button  ***--> 
   
   
 <style>
