@@ -15,7 +15,7 @@
 
 
   
-  <title>Login Page</title>
+  <title>New Login Page</title>
   
 <!--*** Login Form with floating placeholder and light button  ***--> 
   
